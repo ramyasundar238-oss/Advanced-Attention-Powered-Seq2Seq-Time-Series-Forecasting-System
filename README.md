@@ -1,0 +1,2 @@
+# Advanced-Attention-Powered-Seq2Seq-Time-Series-Forecasting-System
+This project implements a production-grade, attention-powered (Seq2Seq) deep learning model for multi-step time series forecasting. It uses a Bahdanau attention mechanism, allowing the decoder to dynamically focus on the most important time steps in the lookback window, resulting in improved forecast accuracy and enhanced interpretability. 
